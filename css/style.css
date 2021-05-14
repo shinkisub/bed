@@ -583,12 +583,12 @@ ol {
 
 .project {
 	padding: 0 15px;
+	overflow: hidden;
 }
 
 .project__slider__item {
 	height: 600px;
 	position: relative;
-	overflow: hidden !important;
 }
 
 .project__slider__item:hover .project__slider__item__hover {
@@ -1001,6 +1001,7 @@ ol {
 .callto {
 	padding-top: 150px;
 	padding-bottom: 150px;
+	overflow: hidden;
 }
 
 .callto__text>p {
@@ -1039,6 +1040,7 @@ ol {
 .callto2 {
 	padding-top: 150px;
 	padding-bottom: 150px;
+	overflow: hidden;
 }
 
 .callto2__text>img{
@@ -1090,6 +1092,7 @@ ol {
 .latest {
 	padding-top: 150px;
 	padding-bottom: 150px;
+	overflow: hidden;
 }
 
 .latest__btn {
@@ -1181,6 +1184,7 @@ ol {
 .project__item {
 	margin-bottom: 50px;
 	text-align: center;
+	overflow: hidden;
 }
 
 .project__item img {
@@ -1200,6 +1204,7 @@ ol {
 .project-details {
 	padding-top: 120px;
 	padding-bottom: 90px;
+	overflow: hidden;
 }
 
 .project-details img {
@@ -1255,6 +1260,7 @@ ol {
 .footer {
 	background-color: #333333;
 	padding-bottom: 50px;
+	overflow: hidden;
 }
 
 .footer__top {
@@ -1769,6 +1775,7 @@ ol {
 .services {
 	padding-top: 120px;
 	padding-bottom: 120px;
+	overflow: hidden;
 }
 
 
