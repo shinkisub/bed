@@ -439,7 +439,7 @@ ol {
 
 .hero {
 	position: relative;
-	overflow: hidden;
+	overflow: hidden !important;
 }
 
 .hero__items {
@@ -588,7 +588,7 @@ ol {
 .project__slider__item {
 	height: 600px;
 	position: relative;
-	overflow: hidden;
+	overflow: hidden !important;
 }
 
 .project__slider__item:hover .project__slider__item__hover {
