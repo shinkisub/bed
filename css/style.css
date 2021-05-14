@@ -2874,6 +2874,7 @@ ol {
 		-o-transition: all, 0.5s;
 		transition: all, 0.5s;
 		visibility: hidden;
+		overflow: hidden;
 	}
 	.offcanvas-menu-overlay.active {
 		visibility: visible;
@@ -3615,6 +3616,10 @@ ol {
 
 	.callto2__text .primary-btn{
 		font-size: 12px;
+	}
+
+	.business-top{
+		margin: 0;
 	}
 	
 
