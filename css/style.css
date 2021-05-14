@@ -583,7 +583,6 @@ ol {
 
 .project {
 	padding: 0 15px;
-	overflow: hidden;
 }
 
 .project__slider__item {
@@ -3475,6 +3474,11 @@ ol {
 	.erdiancetext-area>p{
 		width: 100%;
 	}
+
+	.owl-nav{
+		display: none !important;
+	}
+
 }
 
 @media only screen and (max-width: 541px){
